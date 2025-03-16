@@ -82,8 +82,8 @@ async def start_command(event):
         f"ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ **{bot_name}** ʙᴏᴛ!\n\n"
         "ᴋᴇʏ ғᴇᴀᴛᴜʀᴇs :\n• /banall \n• /unbanall \n• /leave \n• /restart \n\n ᴀᴅᴍɪɴ-ᴏɴʟʏ ᴄᴏᴍᴍᴀɴᴅs; ᴜsᴇ ᴄᴀᴜᴛɪᴏᴜsʟʏ \n",
         buttons=[
-            [Button.url("ᴄʜᴀɴɴᴇʟ", url="https://t.me/ll_UP_CHANNEL_lll"),
-             Button.url("ɢʀᴏᴜᴘ", url="https://t.me/ll_UP_CHANNEL_lll")],
+            [Button.url("ᴄʜᴀɴɴᴇʟ", url="https://t.me/ll_NAWAB_ZADA_llO"),
+             Button.url("ɢʀᴏᴜᴘ", url="https://t.me/ll_NAWAB_ZADA_llO")],
         ],
         file='https://files.catbox.moe/xoymzm.jpg'
     )
